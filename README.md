@@ -5,10 +5,6 @@
 
 - My focus is create useful, accessible and performant software for the web.
 
-### Offline 
-I enjoy attending meetups when I have time and something interesting to discuss. I frequently attend MancJS and Manchester Web Meetup. I am an avid hiker who appreciates discovering new places and reaching new heights.
-
-
           
             
           
